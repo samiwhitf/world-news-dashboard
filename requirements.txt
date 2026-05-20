@@ -1,0 +1,4 @@
+Flask==3.0.2
+flask-cors==4.0.0
+feedparser==6.0.11
+gunicorn==21.2.0
